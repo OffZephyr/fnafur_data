@@ -3,7 +3,8 @@
     {
       "username": "Jo Example",
       "subscription_rank": "Standard",
-      "date_added": "2025-11-09T03:18:44Z"
+      "original_rank": "Standard",
+      "date_added": "2025-11-09T02:06:42Z"
     },
     {
       "username": "TestUser1",
@@ -18,15 +19,21 @@
   ],
   "metadata": {
     "total_subscribers": 3,
-    "last_updated": "2025-11-09T03:18:47.698862",
+    "last_updated": "2025-11-09T03:34:35.998174",
     "latest_activity": {
       "username": "Jo Example",
       "subscription_rank": "Standard",
+      "original_rank": "Standard",
       "action_taken": "added_new_subscriber",
       "was_new_subscriber": true,
       "ko_fi_transaction": "00000000-1111-2222-3333-444444444444",
-      "record_id": "01K9K9Z6DKEGJS7N34J5S9RW5Q"
+      "record_id": "01K9KATQBWE1HPW590MKZGSB9D"
     },
-    "note": "Complete list of all Ko-fi subscribers with automatic duplicate prevention"
+    "mapping_rules": {
+      "pizza_keyword": "Maps to Pizza Lover",
+      "family_keyword": "Maps to Fazbear Family",
+      "note": "Keyword matching is case-insensitive"
+    },
+    "note": "Complete list of all Ko-fi subscribers with custom rank mapping and duplicate prevention"
   }
 }
