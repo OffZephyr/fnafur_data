@@ -1,22 +1,25 @@
 {
-  "current_subscriber": {
-    "username": "Unknown User",
-    "subscription_rank": "Standard",
-    "original_rank": "Standard",
-    "date_added": "2025-11-09T04:01:57.198961",
-    "record_id": "N/A",
-    "was_new_subscriber": false
-  },
+  "all_subscribers": [
+    {
+      "username": "Jo Example",
+      "subscription_rank": "Bronze",
+      "original_rank": "Bronze",
+      "date_added": "2025-11-09T02:06:42Z",
+      "record_id": "01K9KATQBWE1HPW590MKZGSB9D",
+      "was_new_subscriber": true
+    }
+  ],
   "metadata": {
-    "last_updated": "2025-11-09T04:01:57.199092",
+    "total_subscribers": 1,
+    "last_updated": "2025-11-09T04:14:17.530855",
     "latest_activity": {
-      "username": "Unknown User",
-      "subscription_rank": "Standard",
-      "original_rank": "Standard",
-      "action_taken": "updated_existing_subscriber",
-      "was_new_subscriber": false,
+      "username": "Jo Example",
+      "subscription_rank": "Bronze",
+      "original_rank": "Bronze",
+      "action_taken": "added_new_subscriber",
+      "was_new_subscriber": true,
       "ko_fi_transaction": "00000000-1111-2222-3333-444444444444",
-      "record_id": "N/A"
+      "record_id": "01K9KATQBWE1HPW590MKZGSB9D"
     },
     "mapping_rules": {
       "pizza_keyword": "Maps to Pizza Lover",
@@ -27,8 +30,8 @@
       "table_id": "01K9K0BBYENJ2DHSB0WYVSDSW8",
       "complete_list_location": "All subscribers stored in Zapier Tables",
       "table_url": "https://tables.zapier.com/app/tables/t/01K9K0BBYENJ2DHSB0WYVSDSW8",
-      "note": "Visit the table URL above to see ALL subscribers with export options"
+      "note": "This single file is updated with each new Ko-fi subscriber. All historical data is in the Zapier Table."
     },
-    "note": "This shows the current Ko-fi subscriber. All subscribers are accumulated in the Zapier Table with duplicate prevention."
+    "note": "This JSON file is updated with each Ko-fi subscription using proper SHA handling to avoid conflicts."
   }
 }
