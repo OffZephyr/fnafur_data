@@ -1,0 +1,28 @@
+{
+  "supporter_info": {
+    "name": "Jo Example",
+    "email": "jo.example@example.com",
+    "discord_username": "Jo#4105",
+    "discord_userid": "012345678901234567"
+  },
+  "payment_details": {
+    "amount": "3.00",
+    "currency": "USD",
+    "type": "Donation",
+    "message": "Good luck with the integration!",
+    "is_subscription": False,
+    "is_first_subscription": False,
+    "is_public": True,
+    "tier_name": ""
+  },
+  "transaction_info": {
+    "kofi_transaction_id": "00000000-1111-2222-3333-444444444444",
+    "message_id": "ee51ce7b-4808-4ca6-a2cc-4bac82e85ca6",
+    "timestamp": "2025-11-09T00:41:45Z",
+    "url": "https://ko-fi.com/Home/CoffeeShop?txid=00000000-1111-2222-3333-444444444444"
+  },
+  "zapier_data": {
+    "table_record_id": "",
+    "processed_at": "11/09/25 12:47AM"
+  }
+}
