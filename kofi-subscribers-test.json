@@ -1,0 +1,34 @@
+{
+  "current_subscriber": {
+    "username": "Jo Example",
+    "subscription_rank": "Standard",
+    "original_rank": "Standard",
+    "date_added": "2025-11-09T02:06:42Z",
+    "record_id": "01K9KATQBWE1HPW590MKZGSB9D",
+    "was_new_subscriber": true
+  },
+  "metadata": {
+    "last_updated": "2025-11-09T04:04:08.688695",
+    "latest_activity": {
+      "username": "Jo Example",
+      "subscription_rank": "Standard",
+      "original_rank": "Standard",
+      "action_taken": "added_new_subscriber",
+      "was_new_subscriber": true,
+      "ko_fi_transaction": "00000000-1111-2222-3333-444444444444",
+      "record_id": "01K9KATQBWE1HPW590MKZGSB9D"
+    },
+    "mapping_rules": {
+      "pizza_keyword": "Maps to Pizza Lover",
+      "family_keyword": "Maps to Fazbear Family",
+      "note": "Keyword matching is case-insensitive"
+    },
+    "table_info": {
+      "table_id": "01K9K0BBYENJ2DHSB0WYVSDSW8",
+      "complete_list_location": "All subscribers stored in Zapier Tables",
+      "table_url": "https://tables.zapier.com/app/tables/t/01K9K0BBYENJ2DHSB0WYVSDSW8",
+      "note": "Visit the table URL above to see ALL subscribers with export options"
+    },
+    "note": "This shows the current Ko-fi subscriber. All subscribers are accumulated in the Zapier Table with duplicate prevention."
+  }
+}
