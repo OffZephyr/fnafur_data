@@ -1,0 +1,23 @@
+{
+  "all_subscribers": [
+    {
+      "username": "Jo Example",
+      "subscription_rank": "",
+      "date_added": "2025-11-09T01:02:51Z"
+    }
+  ],
+  "metadata": {
+    "total_subscribers": 1,
+    "last_updated": "11/09/25 01:17AM",
+    "latest_activity": {
+      "username": "Jo Example",
+      "was_new_subscriber": "False",
+      "ko_fi_transaction": "00000000-1111-2222-3333-444444444444"
+    },
+    "database_info": {
+      "zapier_table_id": "01K9K0BBYENJ2DHSB0WYVSDSW8",
+      "record_id": "01K9K2J4Q77SZT1P3QZAE3NNYS",
+      "note": "Complete subscriber list stored in Zapier Tables. This JSON updates with each new subscription - manual export from Tables needed for full list."
+    }
+  }
+}
