@@ -4,22 +4,22 @@
       "username": "Jo Example",
       "subscription_rank": "Bronze",
       "original_rank": "Bronze",
-      "date_added": "2025-11-09T02:06:42Z",
-      "record_id": "01K9KATQBWE1HPW590MKZGSB9D",
-      "was_new_subscriber": true
+      "date_added": "2025-11-09T04:16:43.100092",
+      "record_id": "N/A",
+      "was_new_subscriber": false
     }
   ],
   "metadata": {
     "total_subscribers": 1,
-    "last_updated": "2025-11-09T04:14:17.530855",
+    "last_updated": "2025-11-09T04:16:43.100206",
     "latest_activity": {
       "username": "Jo Example",
       "subscription_rank": "Bronze",
       "original_rank": "Bronze",
-      "action_taken": "added_new_subscriber",
-      "was_new_subscriber": true,
+      "action_taken": "updated_existing_subscriber",
+      "was_new_subscriber": false,
       "ko_fi_transaction": "00000000-1111-2222-3333-444444444444",
-      "record_id": "01K9KATQBWE1HPW590MKZGSB9D"
+      "record_id": "N/A"
     },
     "mapping_rules": {
       "pizza_keyword": "Maps to Pizza Lover",
