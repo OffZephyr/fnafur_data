@@ -1,10 +1,10 @@
 {
   "all_subscribers": [
     {
-      "username": "Jo Example",
+      "username": "Unknown User",
       "subscription_rank": "Standard",
       "original_rank": "Standard",
-      "date_added": "2025-11-09T02:06:42Z"
+      "date_added": "2025-11-09T03:36:11.457903"
     },
     {
       "username": "TestUser1",
@@ -19,15 +19,15 @@
   ],
   "metadata": {
     "total_subscribers": 3,
-    "last_updated": "2025-11-09T03:34:35.998174",
+    "last_updated": "2025-11-09T03:36:11.458035",
     "latest_activity": {
-      "username": "Jo Example",
+      "username": "Unknown User",
       "subscription_rank": "Standard",
       "original_rank": "Standard",
       "action_taken": "added_new_subscriber",
-      "was_new_subscriber": true,
+      "was_new_subscriber": false,
       "ko_fi_transaction": "00000000-1111-2222-3333-444444444444",
-      "record_id": "01K9KATQBWE1HPW590MKZGSB9D"
+      "record_id": "N/A"
     },
     "mapping_rules": {
       "pizza_keyword": "Maps to Pizza Lover",
