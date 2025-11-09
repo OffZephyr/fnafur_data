@@ -1,9 +1,9 @@
 {
   "all_subscribers": [
     {
-      "username": "Unknown User",
+      "username": "Jo Example",
       "subscription_rank": "Standard",
-      "date_added": "2025-11-09T03:18:40.777154"
+      "date_added": "2025-11-09T03:18:44Z"
     },
     {
       "username": "TestUser1",
@@ -18,14 +18,14 @@
   ],
   "metadata": {
     "total_subscribers": 3,
-    "last_updated": "2025-11-09T03:18:40.777184",
+    "last_updated": "2025-11-09T03:18:47.698862",
     "latest_activity": {
-      "username": "Unknown User",
+      "username": "Jo Example",
       "subscription_rank": "Standard",
       "action_taken": "added_new_subscriber",
-      "was_new_subscriber": false,
+      "was_new_subscriber": true,
       "ko_fi_transaction": "00000000-1111-2222-3333-444444444444",
-      "record_id": "N/A"
+      "record_id": "01K9K9Z6DKEGJS7N34J5S9RW5Q"
     },
     "note": "Complete list of all Ko-fi subscribers with automatic duplicate prevention"
   }
