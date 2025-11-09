@@ -4,19 +4,19 @@
       "username": "Jo Example",
       "subscription_rank": "Bronze",
       "original_rank": "Bronze",
-      "date_added": "2025-11-09T04:18:10.483455",
+      "date_added": "2025-11-09T04:23:53.027173",
       "record_id": "N/A",
       "was_new_subscriber": false
     }
   ],
   "metadata": {
     "total_subscribers": 1,
-    "last_updated": "2025-11-09T04:18:10.483594",
+    "last_updated": "2025-11-09T04:23:53.171674",
     "latest_activity": {
       "username": "Jo Example",
       "subscription_rank": "Bronze",
       "original_rank": "Bronze",
-      "action_taken": "updated_existing_subscriber",
+      "action_taken": "updated_existing_subscriber_with_api_fallback",
       "was_new_subscriber": false,
       "ko_fi_transaction": "00000000-1111-2222-3333-444444444444",
       "record_id": "N/A"
@@ -28,10 +28,10 @@
     },
     "table_info": {
       "table_id": "01K9K0BBYENJ2DHSB0WYVSDSW8",
-      "complete_list_location": "All subscribers stored in Zapier Tables",
+      "complete_list_location": "All subscribers from Zapier Tables included in this JSON",
       "table_url": "https://tables.zapier.com/app/tables/t/01K9K0BBYENJ2DHSB0WYVSDSW8",
-      "note": "This single file is updated with each new Ko-fi subscriber. All historical data is in the Zapier Table."
+      "note": "This JSON contains ALL subscribers from the Zapier Table, updated with each new Ko-fi subscriber."
     },
-    "note": "This JSON file is updated with each Ko-fi subscription using proper SHA handling to avoid conflicts."
+    "note": "This JSON file contains ALL subscribers from the table and is updated with each Ko-fi subscription."
   }
 }
