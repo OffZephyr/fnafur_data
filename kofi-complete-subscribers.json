@@ -1,37 +1,85 @@
 {
   "all_subscribers": [
     {
+      "username": "CrossML",
+      "subscription_rank": "Gold",
+      "date_added": "2025-11-10T06:00:00.000Z",
+      "record_id": "01K9KADYW9YJ620GTMD93AA2Z8",
+      "source": "step4_search_results"
+    },
+    {
+      "username": "FoxyDungeon",
+      "subscription_rank": "Gold",
+      "date_added": "2025-11-10T05:30:00.000Z",
+      "record_id": "01K9KAAKA1J5VQFKMCZQR27D80",
+      "source": "step4_search_results"
+    },
+    {
       "username": "Jo Example",
-      "subscription_rank": "Bronze",
-      "original_rank": "Bronze",
-      "date_added": "2025-11-09T15:49:40.117451",
+      "subscription_rank": "Standard",
+      "date_added": "2025-11-09T15:59:50.074462",
       "record_id": "N/A",
-      "was_new_subscriber": false
+      "source": "current_subscriber",
+      "is_new": false
+    },
+    {
+      "username": "Duni",
+      "subscription_rank": "Gold",
+      "date_added": "2025-11-09T03:18:44Z",
+      "record_id": "01K9K9Z6DKEGJS7N34J5S9RW5Q",
+      "source": "step4_search_results"
+    },
+    {
+      "username": "Tom",
+      "subscription_rank": "Gold",
+      "date_added": "2025-11-09T03:18:19Z",
+      "record_id": "01K9K9YFNKNFA7MGYW3QQM80JQ",
+      "source": "step4_search_results"
+    },
+    {
+      "username": "Nathan Landry",
+      "subscription_rank": "Gold",
+      "date_added": "2025-11-09T03:10:13Z",
+      "record_id": "01K9K9SF20D9254YTS0YRS4M39",
+      "source": "step4_search_results"
+    },
+    {
+      "username": "Skunky",
+      "subscription_rank": "Gold",
+      "date_added": "2025-01-09T10:00:00Z",
+      "record_id": "01K9K2DJA2NMQW6JCE40CEQ2ZX",
+      "source": "step4_search_results"
+    },
+    {
+      "username": "ayden farrell",
+      "subscription_rank": "Gold",
+      "date_added": "2025-01-08T15:30:00Z",
+      "record_id": "01K9K2DJA2NMQW6JCE40CEQ2ZY",
+      "source": "step4_search_results"
     }
   ],
   "metadata": {
-    "total_subscribers": 1,
-    "last_updated": "2025-11-09T15:49:40.258925",
+    "total_subscribers": 8,
+    "from_step4_search": 7,
+    "last_updated": "2025-11-09T15:59:50.074668",
     "latest_activity": {
       "username": "Jo Example",
-      "subscription_rank": "Bronze",
-      "original_rank": "Bronze",
-      "action_taken": "updated_existing_subscriber_with_api_fallback",
+      "subscription_rank": "Standard",
+      "action_taken": "added_current_plus_all_search_results",
       "was_new_subscriber": false,
       "ko_fi_transaction": "00000000-1111-2222-3333-444444444444",
       "record_id": "N/A"
     },
-    "mapping_rules": {
-      "pizza_keyword": "Maps to Pizza Lover",
-      "family_keyword": "Maps to Fazbear Family",
-      "note": "Keyword matching is case-insensitive"
+    "data_sources": {
+      "step3_current_subscriber": "Latest Ko-fi subscriber (Find or Create)",
+      "step4_search_results": "All subscribers matching specific ranks (Gold, Silver, Fazbear Family, Pizza Lover)",
+      "combined_total": "Complete list with 8 subscribers"
     },
     "table_info": {
       "table_id": "01K9K0BBYENJ2DHSB0WYVSDSW8",
-      "complete_list_location": "All subscribers from Zapier Tables included in this JSON",
       "table_url": "https://tables.zapier.com/app/tables/t/01K9K0BBYENJ2DHSB0WYVSDSW8",
-      "note": "This JSON contains ALL subscribers from the Zapier Table, updated with each new Ko-fi subscriber."
+      "note": "This JSON contains ALL subscribers found by the search criteria plus the current subscriber."
     },
-    "note": "This JSON file contains ALL subscribers from the table and is updated with each Ko-fi subscription."
+    "note": "This JSON file includes every subscriber from step 4's search results plus the current Ko-fi subscriber."
   }
 }
