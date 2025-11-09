@@ -1,0 +1,17 @@
+{
+  "latest_subscriber_activity": {
+    "username": "Jo Example",
+    "subscription_rank": "",
+    "date_processed": "2025-11-09T01:02:51Z",
+    "was_new_subscriber": "False",
+    "record_id": "01K9K2J4Q77SZT1P3QZAE3NNYS",
+    "table_id": "01K9K0BBYENJ2DHSB0WYVSDSW8"
+  },
+  "activity_info": {
+    "last_updated": "11/09/25 01:11AM",
+    "ko_fi_transaction_id": "00000000-1111-2222-3333-444444444444",
+    "payment_amount": "3.00 USD",
+    "is_subscription": "False"
+  },
+  "note": "This file shows the latest Ko-fi subscriber activity. All subscribers are stored in the Zapier Tables database with duplicate prevention."
+}
