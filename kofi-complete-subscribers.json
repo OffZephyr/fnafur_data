@@ -15,14 +15,6 @@
       "source": "step4_search_results"
     },
     {
-      "username": "Jo Example",
-      "subscription_rank": "Standard",
-      "date_added": "2025-11-09T15:59:50.074462",
-      "record_id": "N/A",
-      "source": "current_subscriber",
-      "is_new": false
-    },
-    {
       "username": "Duni",
       "subscription_rank": "Gold",
       "date_added": "2025-11-09T03:18:44Z",
@@ -59,21 +51,21 @@
     }
   ],
   "metadata": {
-    "total_subscribers": 8,
+    "total_subscribers": 7,
     "from_step4_search": 7,
-    "last_updated": "2025-11-09T15:59:50.074668",
+    "last_updated": "2025-11-10T00:02:42.734295",
     "latest_activity": {
-      "username": "Jo Example",
+      "username": "CrossML",
       "subscription_rank": "Standard",
-      "action_taken": "added_current_plus_all_search_results",
+      "action_taken": "included_all_search_results",
       "was_new_subscriber": false,
-      "ko_fi_transaction": "00000000-1111-2222-3333-444444444444",
+      "ko_fi_transaction": "09708881-3a1e-403c-8b18-2f276192f40e",
       "record_id": "N/A"
     },
     "data_sources": {
       "step3_current_subscriber": "Latest Ko-fi subscriber (Find or Create)",
       "step4_search_results": "All subscribers matching specific ranks (Gold, Silver, Fazbear Family, Pizza Lover)",
-      "combined_total": "Complete list with 8 subscribers"
+      "combined_total": "Complete list with 7 subscribers"
     },
     "table_info": {
       "table_id": "01K9K0BBYENJ2DHSB0WYVSDSW8",
